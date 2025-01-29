@@ -1,6 +1,6 @@
 # DESIGNTK 521 – Design Technology Core II
 
-## Week 2 Porject Description
+## Week 2 Project Description
 Welcome! This project brings together MQTT messaging and Gemini's Language Learning Model to help you understand sensor data in real-time. It listens for MQTT messages, sends the data to Gemini for some easy-to-read explanations, and displays the results right in your console. Plus, there's a separate script to test out Gemini's responses on its own, without the MQTT setup.
 
 
